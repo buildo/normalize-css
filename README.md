@@ -10,3 +10,11 @@ In you webpack entry file:
 ```js
 import 'buildo-normalize-css';
 ```
+
+#### Fullscreen app
+If you want to create a fullscreen app you need to import the fullscreen module too:
+
+```js
+import 'buildo-normalize-css';
+import 'buildo-normalize-css/fullscreenApp.css';
+```
