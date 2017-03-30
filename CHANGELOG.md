@@ -2,6 +2,13 @@
 
 
 
+## [v3.0.0](https://github.com/buildo/normalize-css/tree/v3.0.0) (2017-03-30)
+[Full Changelog](https://github.com/buildo/normalize-css/compare/v2.0.0...v3.0.0)
+
+#### Breaking:
+
+- upgrade normalize.css to 6.x [#5](https://github.com/buildo/normalize-css/issues/5)
+
 ## [v2.0.0](https://github.com/buildo/normalize-css/tree/v2.0.0) (2017-03-30)
 [Full Changelog](https://github.com/buildo/normalize-css/compare/v1.1.0...v2.0.0)
 
