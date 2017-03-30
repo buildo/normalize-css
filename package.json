@@ -11,6 +11,7 @@
     "url": "git+https://github.com/buildo/normalize-css.git"
   },
   "keywords": [
+    "normalize.css",
     "normalize-css",
     "reset-css"
   ],
@@ -19,6 +20,11 @@
   "bugs": {
     "url": "https://github.com/buildo/normalize-css/issues"
   },
+  "files": [
+    "index.js",
+    "boxSizing.css",
+    "fullscreenApp.css"
+  ],
   "homepage": "https://github.com/buildo/normalize-css#readme",
   "dependencies": {
     "normalize.css": "^4.2.0"
