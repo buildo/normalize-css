@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/buildo/normalize-css#readme",
   "dependencies": {
-    "normalize.css": "^5.0.0"
+    "normalize.css": "^6.0.0"
   },
   "devDependencies": {
     "smooth-release": "^8.0.0"
