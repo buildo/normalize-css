@@ -4,7 +4,8 @@
   "description": "CSS normalizer based on normalize.css",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release-version": "smooth-release"
   },
   "repository": {
     "type": "git",
@@ -28,5 +29,8 @@
   "homepage": "https://github.com/buildo/normalize-css#readme",
   "dependencies": {
     "normalize.css": "^4.2.0"
+  },
+  "devDependencies": {
+    "smooth-release": "^8.0.0"
   }
 }
