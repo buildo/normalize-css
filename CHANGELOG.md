@@ -2,6 +2,13 @@
 
 
 
+## [v3.0.2](https://github.com/buildo/normalize-css/tree/v3.0.2) (2017-04-05)
+[Full Changelog](https://github.com/buildo/normalize-css/compare/v3.0.1...v3.0.2)
+
+#### Fixes (bugs & defects):
+
+- on iOS the bounce effect is not correctly removed [#9](https://github.com/buildo/normalize-css/issues/9)
+
 ## [v3.0.1](https://github.com/buildo/normalize-css/tree/v3.0.1) (2017-04-05)
 [Full Changelog](https://github.com/buildo/normalize-css/compare/v3.0.0...v3.0.1)
 
