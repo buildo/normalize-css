@@ -24,7 +24,10 @@
   "files": [
     "index.js",
     "boxSizing.css",
-    "fullscreenApp.css"
+    "fullscreenApp.css",
+    "bodyMargin.css",
+    "fontFamily.css",
+    "lineHeight.css"
   ],
   "homepage": "https://github.com/buildo/normalize-css#readme",
   "dependencies": {

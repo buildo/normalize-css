@@ -1,0 +1,9 @@
+/*Change the default line-height in all browsers*/
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  line-height: 1.15;
+}
