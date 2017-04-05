@@ -1,5 +1,6 @@
 // import normalize.css
 require('normalize.css/normalize.css');
 
-// add box-sizing custom normalization
+// add buildo custom normalizations
 require('./boxSizing.css');
+require('./bodyMargin.css');
