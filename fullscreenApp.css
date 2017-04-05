@@ -1,8 +1,15 @@
-html {
-  overflow: hidden;
-}
-
+/*Set main wrappers to have window's height and width*/
 html, body, #app {
   height: 100%;
   width: 100%;
+}
+
+/*Remove bounce back effect on OSX, Safari (desktop and iOS)*/
+html {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
