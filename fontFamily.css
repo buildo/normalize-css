@@ -1,0 +1,5 @@
+/*Change the default font family in all browsers*/
+
+html {
+  font-family: sans-serif;
+}
