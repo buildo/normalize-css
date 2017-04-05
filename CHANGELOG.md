@@ -2,6 +2,13 @@
 
 
 
+## [v3.0.1](https://github.com/buildo/normalize-css/tree/v3.0.1) (2017-04-05)
+[Full Changelog](https://github.com/buildo/normalize-css/compare/v3.0.0...v3.0.1)
+
+#### New features:
+
+- re-add some opinionated rules? [#7](https://github.com/buildo/normalize-css/issues/7)
+
 ## [v3.0.0](https://github.com/buildo/normalize-css/tree/v3.0.0) (2017-03-30)
 [Full Changelog](https://github.com/buildo/normalize-css/compare/v2.0.0...v3.0.0)
 
