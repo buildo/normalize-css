@@ -26,7 +26,8 @@
     "boxSizing.css",
     "fullscreenApp.css",
     "bodyMargin.css",
-    "fontFamily.css"
+    "fontFamily.css",
+    "lineHeight.css"
   ],
   "homepage": "https://github.com/buildo/normalize-css#readme",
   "dependencies": {
